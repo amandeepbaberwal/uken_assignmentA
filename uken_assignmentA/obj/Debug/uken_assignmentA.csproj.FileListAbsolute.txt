@@ -1,0 +1,5 @@
+/Users/amandeep/Projects/uken_assignmentA/uken_assignmentA/bin/Debug/uken_assignmentA.exe
+/Users/amandeep/Projects/uken_assignmentA/uken_assignmentA/bin/Debug/uken_assignmentA.pdb
+/Users/amandeep/Projects/uken_assignmentA/uken_assignmentA/obj/Debug/uken_assignmentA.csprojAssemblyReference.cache
+/Users/amandeep/Projects/uken_assignmentA/uken_assignmentA/obj/Debug/uken_assignmentA.exe
+/Users/amandeep/Projects/uken_assignmentA/uken_assignmentA/obj/Debug/uken_assignmentA.pdb

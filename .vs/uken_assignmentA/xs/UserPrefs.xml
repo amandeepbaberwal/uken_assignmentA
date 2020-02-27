@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{0DB7B3A5-4872-4866-81F3-1041274A2656}|Default">
+  <MonoDevelop.Ide.ItemProperties.uken__assignmentA PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="uken_assignmentA/Program.cs">
+    <Files>
+      <File FileName="uken_assignmentA/Program.cs" Line="22" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="uken_assignmentA" expanded="True">
+            <Node name="uken_assignmentA" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
